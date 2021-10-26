@@ -1,0 +1,7 @@
+D:\WUNU\SoftServe\4_hw\4\bin\Debug\4.exe.config
+D:\WUNU\SoftServe\4_hw\4\bin\Debug\4.exe
+D:\WUNU\SoftServe\4_hw\4\bin\Debug\4.pdb
+D:\WUNU\SoftServe\4_hw\4\obj\Debug\4.csproj.AssemblyReference.cache
+D:\WUNU\SoftServe\4_hw\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+D:\WUNU\SoftServe\4_hw\4\obj\Debug\4.exe
+D:\WUNU\SoftServe\4_hw\4\obj\Debug\4.pdb
